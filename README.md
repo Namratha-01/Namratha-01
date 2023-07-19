@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Namratha-01
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning django
 - 📫 How to reach me: njagadee@lakeheadu.ca, namrathaj01@gmail.com
 
